@@ -3,5 +3,45 @@
         "name": "Geometry Dash",
         "slug": "geometry-dash",
         "image": "/cache/data/image/game/geometry-dash/geometry-dash-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Lite",
+        "slug": "geometry-dash-lite",
+        "image": "/cache/data/image/game/geometry-dash-lite/geometry-dash-lite-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Meltdown",
+        "slug": "geometry-dash-meltdown",
+        "image": "/cache/data/image/game/geometry-dash-meltdown/geometry-dash-meltdown1-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash World",
+        "slug": "geometry-dash-world",
+        "image": "/cache/data/image/game/geometry-dash-world/geo-world-2-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash SubZero",
+        "slug": "geometry-dash-subzero",
+        "image": "/cache/data/image/game/geometry-dash-subzero/geometry-dash-subzero-m186x186.webp"
+    },
+    {
+        "name": "Geometry FreezeNova",
+        "slug": "geometry-freezenova",
+        "image": "/cache/data/image/game/geometry-freezenova/geometry-freezenova-game-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Breeze",
+        "slug": "geometry-dash-breeze",
+        "image": "/cache/data/image/game/geometry-dash-breeze/geometry-dash-breeze-m186x186.webp"
+    },
+    {
+        "name": "Geometry Game 3D",
+        "slug": "geometry-game-3d",
+        "image": "/cache/data/image/game/geometry-game-3d/geometry-game-3d-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash 2.2",
+        "slug": "geometry-dash-2-2",
+        "image": "/cache/data/image/game/geometry-dash-2-2/geometry-dash-2-2-game-m186x186.webp"
     }
 ]
